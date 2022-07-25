@@ -2,3 +2,8 @@ test text file
 ’Ç‰Á
 ’Ç‰Á2
 ’Ç‰Á3
+aaa
+iii
+uuu
+eee
+ooo
